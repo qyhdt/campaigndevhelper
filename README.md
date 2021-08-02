@@ -2,8 +2,8 @@
 **Provide campaign dev helper tool download.**
 ### Features:
   
-* Open common solution, including: Odata, MidderTierTest, UnitTest.EO, AggretatorService and so on
-* Build all project, build specified folder.Notification of success or failed
+* Open common solution, including: Odata, MidderTierTest, UnitTest.EO, AggretatorService and so on...
+* Build all project, build specified folder.Notification of success or failed.
 * Git Clean without restarting your workstation.
 * Kill Visual Studio by one key.
 * Kill building processes by one key.
