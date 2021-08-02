@@ -4,7 +4,7 @@
   
 * Open common solution, including: Odata, MidderTierTest, UnitTest.EO, AggretatorService and so on
 * Build all project, build specified folder.
-* Git Clean without restart your workstation.
+* Git Clean without restarting your workstation.
 * Kill Visual Studio by one key.
 * Kill building processes by one key.
 * Kill Onetool thoroughly.
