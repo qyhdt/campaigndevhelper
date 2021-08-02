@@ -1,3 +1,7 @@
 # campaigndevhelper
 provide campaign dev helper tool download.
-![image](https://user-images.githubusercontent.com/7843730/127809715-e2728259-729b-42f3-afc4-79b9654ea105.png)
+Features:
+  Open common solution, including: Odata, MidderTierTest, UnitTest.EO, AggretatorService and so on, pls download the executable file to install.
+  
+![image](https://user-images.githubusercontent.com/7843730/127809985-d5b6c6ca-36af-4662-8cfe-90916c806212.png)
+
